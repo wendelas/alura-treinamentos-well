@@ -1,0 +1,18 @@
+// gerar package.json 
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Descrição do meu projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    // Adicione suas dependências aqui
+
+  }
+}
+
